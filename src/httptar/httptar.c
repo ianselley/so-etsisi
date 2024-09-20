@@ -4,19 +4,7 @@
  * Este programa es un servidor que recibe un mensaje por HTTP y envía un archivo comprimido en zip del directorio de trabajo.
  * NOTA: Todo está hardcodeado. Muchas pruebas, mucho tiempo perdido en finales sin salida al trabajar con Minix 312a y Windows.
  * 
- * NoFunciona: Scripts con wget para reproducir una estructura de directorios en Minix. No funciona wget -r ni wget -m.
- * NoFunciona: PowerShell Se solucionó con System.Net.HttpListener pero para escuchar fuera de localhost se necesitan privilegios.
- * NoFunciona: Minix da error de cabecera con tar, solo se ha hecho funcionar la descompresión con unzip.
- * 
  * Programado por: Jorge Dueñas Lerín
- */
-
-/*
-    TODO:
-    - Reestructurar el código para que sea más modular.
-    - Aceptar envío de archivos por POST. (Sincronización Minix-Windows)
-    - Añadir un sistema de logs.
-    - Añadir parámetro de línea de comandos para cambiar el puerto y la ruta de trabajo.
  */
 
 #include <stdio.h>
@@ -25,6 +13,7 @@
 #include <winsock2.h>
 #include <windows.h>
 #include <winsock.h>
+#include <sys/stat.h>
 
 #define ZIPPATH "utilidades\\7za.exe"
 #define WORKING_PATH ".\\trabajo"
@@ -32,16 +21,31 @@
 #define PORT 8842
 #define RCV_BUFFER 4096
 
-// Comprime path_wk en path_file con 7z
-int compress7z(char *path_wk, char *path_file) {
-    char command[100];
-    sprintf(command, "%s a -ttar %s %s", ZIPPATH, path_file, path_wk);
-    system(command);
-    return 0;
+// Función para verificar si un directorio existe
+int directoryExists(char *path) {
+    struct stat stats;
+    if (stat(path, &stats) == 0 && S_ISDIR(stats.st_mode)) {
+        return 1; // El directorio existe
+    }
+    return 0; // El directorio no existe
 }
 
-// Comprime path_wk en path_file con el comando tar (Da error al descomprimir en la versión de Minix 3.1.2a)
+// Función para crear el directorio si no existe
+void createDirectoryIfNotExists(char *path) {
+    struct stat stats;
+    if (stat(path, &stats) != 0) {
+        // El directorio no existe, lo creamos
+        printf("Creando el directorio de trabajo: %s\n", path);
+        mkdir(path);
+    }
+}
+
+// Comprime path_wk en path_file con el comando tar
 int compress(char *path_wk, char *path_file) {
+    if (!directoryExists(path_wk)) {
+        printf("Error: El directorio %s no existe.\n", path_wk);
+        return 1;
+    }
     char command[100];
     sprintf(command, "tar -a -c -f %s %s", path_file, path_wk);
     system(command);
@@ -57,7 +61,7 @@ int deleteFile(char *path) {
     }
 }
 
-// Escribe en el socket el fichero WORKING_FILE con el protocolo HTTP escrito a fuego en el código
+// Escribe en el socket el fichero WORKING_FILE con el protocolo HTTP
 int sendFile(SOCKET new_socket) {
     FILE *file;
     char buffer[RCV_BUFFER];
@@ -69,7 +73,7 @@ int sendFile(SOCKET new_socket) {
         return 1;
     }
 
-    // Cabecera y fichero
+    // Cabecera HTTP y envío del fichero
     char header[255];
     sprintf(header, "HTTP/1.0 200 OK\nContent-Type: application/octet-stream\nContent-Disposition: attachment; filename=\"%s\"\n\n", WORKING_FILE);
     send(new_socket, header, strlen(header), 0);
@@ -86,7 +90,7 @@ int sendFile(SOCKET new_socket) {
     return 0;
 }
 
-// Abre socket TCP windows y recibe mensaje HTTP, comprime WORKING_PATH y envía WORKING_FILE. ¡Todo en Uno!
+// Abre socket TCP windows y recibe mensaje HTTP, comprime WORKING_PATH y envía WORKING_FILE
 int openServer() {
     WSADATA wsaData;
     SOCKET s;
@@ -128,10 +132,23 @@ int openServer() {
     printf("Conexión aceptada.\n");
 
     recv(new_socket, buffer, RCV_BUFFER, 0);
-    //printf("Mensaje recibido: %s\n", buffer);
 
-    compress(WORKING_PATH, WORKING_FILE);
-    sendFile(new_socket);
+    // Verifica y crea el directorio de trabajo si es necesario
+    createDirectoryIfNotExists(WORKING_PATH);
+
+    // Comprime el directorio de trabajo
+    if (compress(WORKING_PATH, WORKING_FILE) != 0) {
+        printf("Error al comprimir el directorio de trabajo.\n");
+        return 1;
+    }
+
+    // Envía el archivo comprimido
+    if (sendFile(new_socket) != 0) {
+        printf("Error al enviar el archivo comprimido.\n");
+        return 1;
+    }
+
+    // Borra el archivo comprimido
     deleteFile(WORKING_FILE);
 
     closesocket(new_socket);
@@ -142,8 +159,8 @@ int openServer() {
 }
 
 int main() {
-    printf("Arrancado server!\n");
-    while(1){
+    printf("Arrancando server!\n");
+    while(1) {
         openServer();
     }
     return 0;

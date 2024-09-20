@@ -13,8 +13,8 @@ if exist .\utilidades\qemu\qemu-system-x86_64w.exe if exist .\imagen\%IMAGEUNZIP
     goto label_fin
 :tools_ok
 
-@rem Verificar que existe una ejecución del httptar con los comando task, si no existe mensaje de error y salir
-tasklist /FI "IMAGENAME eq httptar.exe" 2>NUL | find /I "httptar.exe" >NUL
+@rem Verificar que existe una ejecución del httptar con los comandos tasklist y findstr, si no existe, mensaje de error y salir
+tasklist /FI "IMAGENAME eq httptar.exe" 2>NUL | findstr /I "httptar.exe" >NUL
 if %ERRORLEVEL% == 0 goto htar_ok
     echo ERROR No se encuentra el servidor HTTPServer
     echo Por favor, abre otra terminal y ejecuta el comando
@@ -73,7 +73,7 @@ M:utilidades\qemu\qemu-system-x86_64w.exe ^
 echo Has finalizado la ejecución de Minix
 
 :label_fin_desconectando
-@rem Eliminamos la unidad M: y N:
+@rem Eliminamos la unidad M:
 subst /D M:
 
 :label_fin
