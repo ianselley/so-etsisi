@@ -11,19 +11,19 @@
  */
 static int escribir_palabras(void)
 {
-	int i;
-	char* const palabra = calloc(longitud()+2, sizeof(char));
+    int i;
+    char *const palabra = calloc(longitud() + 2, sizeof(char));
 
-	for (i = 0; i < total_palabras(); i++)
-	{
-		if (genera_palabra(i, palabra) != OK)
-		{
-			return !OK;
-		}
-		fprintf(stdout, "%s\n", palabra);
-	}
-	free(palabra);
-	return OK;
+    for (i = 0; i < total_palabras(); i++)
+    {
+        if (genera_palabra(i, palabra) != OK)
+        {
+            return !OK;
+        }
+        fprintf(stdout, "%s\n", palabra);
+    }
+    free(palabra);
+    return OK;
 }
 
 /* Realiza el trabajo del reventador una vez que se ha obtenido la
@@ -32,11 +32,11 @@ static int escribir_palabras(void)
  */
 static int trabajar(const char alfabeto[], const int longitud)
 {
-	if (configura_generador(alfabeto, longitud) != OK)
-	{
-		return !OK;
-	}
-	return escribir_palabras();
+    if (configura_generador(alfabeto, longitud) != OK)
+    {
+        return !OK;
+    }
+    return escribir_palabras();
 }
 
 /**
@@ -45,7 +45,7 @@ static int trabajar(const char alfabeto[], const int longitud)
  */
 static void uso(const char prog[])
 {
-	fprintf(stderr, "Uso: %s <alfabeto> <longitud>\n", prog);
+    fprintf(stderr, "Uso: %s <alfabeto> <longitud> <num trabajadores>\n", prog);
 }
 
 /**
@@ -59,42 +59,42 @@ static void uso(const char prog[])
  */
 static int str2int(const char cadena[], long *num)
 {
-	char* endptr;
+    char *endptr;
 
-	errno = OK;
-	*num = strtol(cadena, &endptr, 10);
-	if (errno != OK || *endptr != '\0' || *num < 1)
-	{
-		return !OK;
-	}
-	return OK;
+    errno = OK;
+    *num = strtol(cadena, &endptr, 10);
+    if (errno != OK || *endptr != '\0' || *num < 1)
+    {
+        return !OK;
+    }
+    return OK;
 }
 
-int main(const int argc, const char * argv[])
+int main(const int argc, const char *argv[])
 {
-	long longitud;
-	int trabajadores;
+    long longitud;
+    long trabajadores;
 
-	if (argc != 4)
-	{
-		uso(argv[0]);
-		return !OK;
-	}
-	if (str2int(argv[2], &longitud) != OK)
-	{
-		fprintf(stderr, "la longitud no es válida\n");
-		return !OK;
-	}
-	if (str2int(argv[4], &trabajadores) != OK)
-	{
-		fprintf(stderr, "el número de trabajadores no es válido\n");
-		return !OK;
-	}
-	if (trabajar(argv[1], longitud) != OK)
-	{
-		fprintf(stderr, "el programa ha fallado\n");
-		return !OK;
-	}
-	return OK;
+    if (argc != 4)
+    {
+        uso(argv[0]);
+        return !OK;
+    }
+    if (str2int(argv[2], &longitud) != OK)
+    {
+        fprintf(stderr, "la longitud no es válida\n");
+        return !OK;
+    }
+    if (str2int(argv[3], &trabajadores) != OK)
+    {
+        fprintf(stderr, "el número de trabajadores no es válido\n");
+        return !OK;
+    }
+    if (trabajar(argv[1], longitud) != OK)
+    {
+        fprintf(stderr, "el programa ha fallado\n");
+        return !OK;
+    }
+    printf("Se crearán %d trabajadores\n", trabajadores);
+    return OK;
 }
-
