@@ -1,21 +1,21 @@
-/imagen/**
-!/imagen/minix3hd.7z
-log_e9.bin
+# /imagen/**
+# !/imagen/minix3hd.7z
+# log_e9.bin
 
-/imagen/**
-!/imagen/minix3hd.7z
-!/imagen/minix3hd.plot.7z
+# /imagen/**
+# !/imagen/minix3hd.7z
+# !/imagen/minix3hd.plot.7z
 
-/trabajo/**
-!/trabajo/
-!/trabajo/bin/
-!/trabajo/bin/*
+# /trabajo/**
+# !/trabajo/
+# !/trabajo/bin/
+# !/trabajo/bin/*
 
-/utilidades/qemu/
+# /utilidades/qemu/
 
-# Tras la subida inicial, no es necesario registrar los cambios aquí.
-id.txt
+# # Tras la subida inicial, no es necesario registrar los cambios aquí.
+# id.txt
 
-/src/MINIX3/
-/src/minix312ahack/
-/out/
+# /src/MINIX3/
+# /src/minix312ahack/
+# /out/

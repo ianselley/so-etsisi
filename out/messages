@@ -1,0 +1,1294 @@
+Aug 26 12:41:00 minix syslogd: restart
+Aug 26 12:41:00 minix kernel: 
+Aug 26 12:41:00 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 26 12:41:00 minix kernel: Executing in 32-bit protected mode.
+Aug 26 12:41:00 minix kernel: 
+Aug 26 12:41:00 minix kernel:                                                                                                                                              
+Aug 26 12:41:00 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 26 12:41:00 minix kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 26 12:41:00 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 26 12:41:00 minix kernel: Replacing root
+Aug 26 12:41:00 minix kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:00 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:00 minix kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:00 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:00 minix kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:00 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:00 minix kernel: dp8390#0: NE2000 at C000:11
+Aug 26 12:41:00 minix kernel: dp8390: strange, got SYN_ALARM
+Aug 26 12:41:40 10 syslogd: restart
+Aug 26 12:41:40 10 kernel: 
+Aug 26 12:41:40 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 26 12:41:40 10 kernel: Executing in 32-bit protected mode.
+Aug 26 12:41:40 10 kernel: 
+Aug 26 12:41:40 10 kernel:                                                                                                                                              
+Aug 26 12:41:40 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 26 12:41:40 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 26 12:41:40 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 26 12:41:40 10 kernel: Replacing root
+Aug 26 12:41:40 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:40 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:40 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:40 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:40 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 12:41:40 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 12:41:40 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 26 13:00:10 10 syslogd: exiting on signal 15
+Aug 26 13:01:44 10 syslogd: restart
+Aug 26 13:01:44 10 kernel: 
+Aug 26 13:01:44 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 26 13:01:44 10 kernel: Executing in 32-bit protected mode.
+Aug 26 13:01:44 10 kernel: 
+Aug 26 13:01:44 10 kernel:                                                                                                                                              
+Aug 26 13:01:44 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 26 13:01:44 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 26 13:01:44 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 26 13:01:44 10 kernel: Replacing root
+Aug 26 13:01:44 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 13:01:44 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 13:01:44 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 13:01:44 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 13:01:44 10 kernel: pci_slot_name: got name 0.3.0
+Aug 26 13:01:44 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 26 13:01:44 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 26 13:01:44 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 26 13:09:56 10 syslogd: exiting on signal 15
+Aug 29 23:12:04 10 syslogd: restart
+Aug 29 23:12:04 10 kernel: 
+Aug 29 23:12:04 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 29 23:12:04 10 kernel: Executing in 32-bit protected mode.
+Aug 29 23:12:04 10 kernel: 
+Aug 29 23:12:04 10 kernel:                                                                                                                                              
+Aug 29 23:12:04 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 29 23:12:04 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 29 23:12:04 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 29 23:12:04 10 kernel: Replacing root
+Aug 29 23:12:04 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:12:04 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:12:04 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:12:04 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:12:04 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:12:04 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:12:04 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 29 23:12:04 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 29 23:15:21 10 syslogd: exiting on signal 15
+Aug 29 23:19:38 10 syslogd: restart
+Aug 29 23:19:38 10 kernel: 
+Aug 29 23:19:38 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 29 23:19:38 10 kernel: Executing in 32-bit protected mode.
+Aug 29 23:19:38 10 kernel: 
+Aug 29 23:19:38 10 kernel:                                                                                                                                              
+Aug 29 23:19:38 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 29 23:19:38 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 29 23:19:38 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 29 23:19:38 10 kernel: Replacing root
+Aug 29 23:19:38 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:19:38 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:19:38 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:19:38 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:19:38 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:19:38 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:19:38 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 29 23:19:38 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 29 23:21:04 10 syslogd: exiting on signal 15
+Aug 29 23:37:17 10 syslogd: restart
+Aug 29 23:37:17 10 kernel: 
+Aug 29 23:37:17 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 29 23:37:17 10 kernel: Executing in 32-bit protected mode.
+Aug 29 23:37:17 10 kernel: 
+Aug 29 23:37:17 10 kernel:                                                                                                                                              
+Aug 29 23:37:17 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 29 23:37:17 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 29 23:37:17 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 29 23:37:17 10 kernel: Replacing root
+Aug 29 23:37:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:37:17 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:37:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:37:17 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:37:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:37:17 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:37:17 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 29 23:37:17 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 29 23:39:38 10 syslogd: exiting on signal 15
+Aug 29 23:39:49 10 syslogd: restart
+Aug 29 23:39:49 10 kernel: 
+Aug 29 23:39:49 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 29 23:39:49 10 kernel: Executing in 32-bit protected mode.
+Aug 29 23:39:49 10 kernel: 
+Aug 29 23:39:49 10 kernel:                                                                                                                                              
+Aug 29 23:39:49 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 29 23:39:49 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 29 23:39:49 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 29 23:39:49 10 kernel: Replacing root
+Aug 29 23:39:49 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:39:49 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:39:49 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:39:49 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:39:49 10 kernel: pci_slot_name: got name 0.3.0
+Aug 29 23:39:49 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 29 23:39:49 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 29 23:39:49 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 29 23:42:04 10 syslogd: exiting on signal 15
+Aug 30 00:09:59 10 syslogd: restart
+Aug 30 00:09:59 10 kernel: 
+Aug 30 00:09:59 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 30 00:09:59 10 kernel: Executing in 32-bit protected mode.
+Aug 30 00:09:59 10 kernel: 
+Aug 30 00:09:59 10 kernel:                                                                                                                                              
+Aug 30 00:09:59 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 30 00:09:59 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 30 00:09:59 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 30 00:09:59 10 kernel: Replacing root
+Aug 30 00:09:59 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:09:59 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:09:59 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:09:59 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:09:59 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:09:59 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:09:59 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 30 00:09:59 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 30 00:11:55 10 syslogd: exiting on signal 15
+Aug 30 00:12:17 10 syslogd: restart
+Aug 30 00:12:17 10 kernel: 
+Aug 30 00:12:17 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 30 00:12:17 10 kernel: Executing in 32-bit protected mode.
+Aug 30 00:12:17 10 kernel: 
+Aug 30 00:12:17 10 kernel:                                                                                                                                              
+Aug 30 00:12:17 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 30 00:12:17 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 30 00:12:17 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 30 00:12:17 10 kernel: Replacing root
+Aug 30 00:12:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:17 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:17 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:17 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:17 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:17 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 30 00:12:17 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 30 00:12:26 10 sshd[97]: error: setsockopt SO_REUSEADDR: Function not implemented
+Aug 30 00:12:26 10 sshd[97]: Server listening on 0.0.0.0 port 22.
+Aug 30 00:12:42 10 sshd[97]: Received signal 15; terminating.
+Aug 30 00:12:43 10 syslogd: exiting on signal 15
+Aug 30 00:12:54 10 syslogd: restart
+Aug 30 00:12:54 10 kernel: 
+Aug 30 00:12:54 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Aug 30 00:12:54 10 kernel: Executing in 32-bit protected mode.
+Aug 30 00:12:54 10 kernel: 
+Aug 30 00:12:54 10 kernel:                                                                                                                                              
+Aug 30 00:12:54 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Aug 30 00:12:54 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Aug 30 00:12:54 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Aug 30 00:12:54 10 kernel: Replacing root
+Aug 30 00:12:54 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:54 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:54 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:54 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:54 10 kernel: pci_slot_name: got name 0.3.0
+Aug 30 00:12:54 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Aug 30 00:12:54 10 kernel: dp8390#0: NE2000 at C000:11
+Aug 30 00:12:54 10 kernel: dp8390: strange, got SYN_ALARM
+Aug 30 00:13:34 10 sshd[88]: Received signal 15; terminating.
+Aug 30 00:13:34 10 syslogd: exiting on signal 15
+Sep  1 11:51:00 10 syslogd: restart
+Sep  1 11:51:00 10 kernel: 
+Sep  1 11:51:00 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 11:51:00 10 kernel: Executing in 32-bit protected mode.
+Sep  1 11:51:00 10 kernel: 
+Sep  1 11:51:00 10 kernel:                                                                                                                                              
+Sep  1 11:51:00 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 11:51:00 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 11:51:00 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 11:51:00 10 kernel: Replacing root
+Sep  1 11:51:00 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 11:51:00 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 11:51:00 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 11:51:00 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 11:51:00 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 11:51:00 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 11:51:00 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 11:51:00 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 12:11:00 10 -- MARK --
+Sep  1 12:31:00 10 -- MARK --
+Sep  1 12:31:17 10 sshd[89]: Received signal 15; terminating.
+Sep  1 12:31:17 10 syslogd: exiting on signal 15
+Sep  1 12:31:29 10 syslogd: restart
+Sep  1 12:31:29 10 kernel: 
+Sep  1 12:31:29 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 12:31:29 10 kernel: Executing in 32-bit protected mode.
+Sep  1 12:31:29 10 kernel: 
+Sep  1 12:31:29 10 kernel:                                                                                                                                              
+Sep  1 12:31:29 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 12:31:29 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 12:31:29 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 12:31:29 10 kernel: Replacing root
+Sep  1 12:31:29 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 12:31:29 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 12:31:29 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 12:31:29 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 12:31:29 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 12:31:29 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 12:31:29 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 12:31:29 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 12:51:29 10 -- MARK --
+Sep  1 13:11:29 10 -- MARK --
+Sep  1 13:31:29 10 -- MARK --
+Sep  1 13:37:04 10 sshd[92]: Received signal 15; terminating.
+Sep  1 13:37:05 10 syslogd: exiting on signal 15
+Sep  1 13:37:19 10 syslogd: restart
+Sep  1 13:37:19 10 kernel: 
+Sep  1 13:37:19 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 13:37:19 10 kernel: Executing in 32-bit protected mode.
+Sep  1 13:37:19 10 kernel: 
+Sep  1 13:37:19 10 kernel:                                                                                                                                              
+Sep  1 13:37:19 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 13:37:19 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 13:37:19 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 13:37:19 10 kernel: Replacing root
+Sep  1 13:37:19 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:37:19 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:37:19 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:37:19 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:37:19 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:37:19 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:37:19 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 13:37:19 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 13:52:46 10 sshd[87]: Received signal 15; terminating.
+Sep  1 13:52:47 10 syslogd: exiting on signal 15
+Sep  1 13:52:53 10 syslogd: restart
+Sep  1 13:52:53 10 kernel: 
+Sep  1 13:52:53 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 13:52:53 10 kernel: Executing in 32-bit protected mode.
+Sep  1 13:52:53 10 kernel: 
+Sep  1 13:52:53 10 kernel:                                                                                                                                              
+Sep  1 13:52:53 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 13:52:53 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 13:52:53 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 13:52:53 10 kernel: Replacing root
+Sep  1 13:52:53 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:52:53 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:52:53 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:52:53 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:52:53 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:52:53 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:52:53 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 13:52:53 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 13:52:53 10 sshd[92]: Server listening on 0.0.0.0 port 22.
+Sep  1 13:57:24 10 sshd[92]: Received signal 15; terminating.
+Sep  1 13:57:25 10 syslogd: exiting on signal 15
+Sep  1 13:57:36 10 syslogd: restart
+Sep  1 13:57:36 10 kernel: 
+Sep  1 13:57:36 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 13:57:36 10 kernel: Executing in 32-bit protected mode.
+Sep  1 13:57:36 10 kernel: 
+Sep  1 13:57:36 10 kernel:                                                                                                                                              
+Sep  1 13:57:36 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 13:57:36 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 13:57:36 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 13:57:36 10 kernel: Replacing root
+Sep  1 13:57:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:57:36 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:57:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:57:36 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:57:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 13:57:36 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 13:57:36 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 13:57:36 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 14:07:19 10 sshd[89]: Received signal 15; terminating.
+Sep  1 14:07:20 10 syslogd: exiting on signal 15
+Sep  1 14:17:02 10 syslogd: restart
+Sep  1 14:17:02 10 kernel: 
+Sep  1 14:17:02 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  1 14:17:02 10 kernel: Executing in 32-bit protected mode.
+Sep  1 14:17:02 10 kernel: 
+Sep  1 14:17:02 10 kernel:                                                                                                                                              
+Sep  1 14:17:02 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  1 14:17:02 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  1 14:17:02 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  1 14:17:02 10 kernel: Replacing root
+Sep  1 14:17:02 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 14:17:02 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 14:17:02 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 14:17:02 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 14:17:02 10 kernel: pci_slot_name: got name 0.3.0
+Sep  1 14:17:02 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  1 14:17:02 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  1 14:17:02 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  1 14:18:25 10 sshd[145]: Received signal 15; terminating.
+Sep  1 14:18:25 10 syslogd: exiting on signal 15
+Sep  3 00:05:15 10 syslogd: restart
+Sep  3 00:05:15 10 kernel: 
+Sep  3 00:05:15 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 00:05:15 10 kernel: Executing in 32-bit protected mode.
+Sep  3 00:05:15 10 kernel: 
+Sep  3 00:05:15 10 kernel:                                                                                                                                              
+Sep  3 00:05:15 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 00:05:15 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 00:05:15 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 00:05:15 10 kernel: Replacing root
+Sep  3 00:05:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:05:15 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:05:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:05:15 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:05:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:05:15 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:05:15 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 00:05:15 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 00:25:15 10 -- MARK --
+Sep  3 00:29:45 10 sshd[87]: Received signal 15; terminating.
+Sep  3 00:29:45 10 syslogd: exiting on signal 15
+Sep  3 00:30:58 10 syslogd: restart
+Sep  3 00:30:58 10 kernel: 
+Sep  3 00:30:58 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 00:30:58 10 kernel: Executing in 32-bit protected mode.
+Sep  3 00:30:58 10 kernel: 
+Sep  3 00:30:58 10 kernel:                                                                                                                                              
+Sep  3 00:30:58 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 00:30:58 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 00:30:58 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 00:30:58 10 kernel: Replacing root
+Sep  3 00:30:58 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:30:58 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:30:58 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:30:58 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:30:58 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 00:30:58 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 00:30:58 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 00:30:58 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 00:35:50 10 sshd[89]: Received signal 15; terminating.
+Sep  3 00:35:51 10 syslogd: exiting on signal 15
+Sep  3 15:52:06 10 syslogd: restart
+Sep  3 15:52:06 10 kernel: 
+Sep  3 15:52:06 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 15:52:06 10 kernel: Executing in 32-bit protected mode.
+Sep  3 15:52:06 10 kernel: 
+Sep  3 15:52:06 10 kernel:                                                                                                                                              
+Sep  3 15:52:06 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 15:52:06 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 15:52:06 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 15:52:06 10 kernel: Replacing root
+Sep  3 15:52:06 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:52:06 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:52:06 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:52:06 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:52:06 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:52:06 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:52:06 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 15:52:06 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 16:12:06 10 -- MARK --
+Sep  3 16:32:06 10 -- MARK --
+Sep  3 16:52:06 10 -- MARK --
+Sep  3 17:12:06 10 -- MARK --
+Sep  3 17:32:06 10 -- MARK --
+Sep  3 17:52:06 10 -- MARK --
+Sep  3 18:00:18 10 sshd[92]: Received signal 15; terminating.
+Sep  3 18:00:19 10 syslogd: exiting on signal 15
+Sep  3 18:04:46 10 syslogd: restart
+Sep  3 18:04:46 10 kernel: 
+Sep  3 18:04:46 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 18:04:46 10 kernel: Executing in 32-bit protected mode.
+Sep  3 18:04:46 10 kernel: 
+Sep  3 18:04:46 10 kernel:                                                                                                                                              
+Sep  3 18:04:46 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 18:04:46 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 18:04:46 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 18:04:46 10 kernel: Replacing root
+Sep  3 18:04:46 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 18:04:46 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 18:04:46 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 18:04:46 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 18:04:46 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 18:04:46 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 18:04:46 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 18:04:46 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 18:06:17 10 sshd[114]: Invalid user mbi from 192.168.1.130
+Sep  3 18:06:17 10 sshd[114]: input_userauth_request: invalid user mbi
+Sep  3 18:06:17 10 sshd[114]: Failed none for invalid user mbi from 192.168.1.130 port 60396 ssh2
+Sep  3 18:06:32 10 sshd[114]: Connection closed by 192.168.1.130
+Sep  3 18:06:44 10 sshd[115]: Failed password for usuario from 192.168.1.130 port 60486 ssh2
+Sep  3 18:06:45 10 sshd[115]: Connection closed by 192.168.1.130
+Sep  3 18:06:57 10 sshd[116]: Failed password for root from 192.168.1.130 port 60534 ssh2
+Sep  3 18:07:00 10 sshd[116]: Failed password for root from 192.168.1.130 port 60534 ssh2
+Sep  3 18:07:03 10 sshd[116]: Accepted password for root from 192.168.1.130 port 60534 ssh2
+Sep  3 18:07:03 10 sshd[120]: Accepted password for root from 192.168.1.130 port 60566 ssh2
+Sep  3 18:07:03 10 sshd[120]: subsystem request for sftp
+Sep  3 18:08:58 10 sshd[116]: Received disconnect from 192.168.1.130: 11: disconnected by user
+Sep  3 18:19:34 10 sshd[191]: Accepted password for root from 192.168.1.53 port 53806 ssh2
+Sep  3 18:19:35 10 sshd[193]: Accepted password for root from 192.168.1.53 port 53843 ssh2
+Sep  3 18:19:35 10 sshd[193]: subsystem request for sftp
+Sep  3 18:19:37 10 sshd[191]: Disconnecting: socket: Address family not supported
+Sep  3 18:22:55 10 sshd[197]: Accepted password for root from 192.168.1.53 port 54248 ssh2
+Sep  3 18:22:55 10 sshd[199]: Accepted password for root from 192.168.1.53 port 54261 ssh2
+Sep  3 18:22:55 10 sshd[199]: subsystem request for sftp
+Sep  3 18:23:31 10 sshd[197]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 18:24:20 10 sshd[222]: Invalid user boss from 192.168.1.53
+Sep  3 18:24:20 10 sshd[222]: input_userauth_request: invalid user boss
+Sep  3 18:24:20 10 sshd[222]: Failed none for invalid user boss from 192.168.1.53 port 54436 ssh2
+Sep  3 18:24:30 10 sshd[222]: Failed password for invalid user boss from 192.168.1.53 port 54436 ssh2
+Sep  3 18:24:35 10 last message repeated 2 times
+Sep  3 18:24:35 10 sshd[222]: Failed keyboard-interactive for invalid user boss from 192.168.1.53 port 54436 ssh2
+Sep  3 18:24:35 10 sshd[222]: Connection closed by 192.168.1.53
+Sep  3 18:24:59 10 sshd[226]: Accepted password for root from 192.168.1.53 port 54510 ssh2
+Sep  3 18:24:59 10 sshd[228]: Accepted password for root from 192.168.1.53 port 54519 ssh2
+Sep  3 18:24:59 10 sshd[228]: subsystem request for sftp
+Sep  3 18:25:01 10 sshd[226]: Disconnecting: socket: Address family not supported
+Sep  3 18:44:46 10 -- MARK --
+Sep  3 19:03:11 10 sshd[232]: Invalid user boss from 192.168.1.53
+Sep  3 19:03:11 10 sshd[232]: input_userauth_request: invalid user boss
+Sep  3 19:03:11 10 sshd[232]: Failed none for invalid user boss from 192.168.1.53 port 59154 ssh2
+Sep  3 19:03:24 10 sshd[232]: Failed password for invalid user boss from 192.168.1.53 port 59154 ssh2
+Sep  3 19:03:26 10 sshd[232]: Connection closed by 192.168.1.53
+Sep  3 19:03:35 10 sshd[234]: Accepted password for root from 192.168.1.53 port 59204 ssh2
+Sep  3 19:03:36 10 sshd[236]: Accepted password for root from 192.168.1.53 port 59212 ssh2
+Sep  3 19:03:36 10 sshd[236]: subsystem request for sftp
+Sep  3 19:03:39 10 sshd[234]: Disconnecting: socket: Address family not supported
+Sep  3 19:05:03 10 sshd[240]: Accepted password for root from 192.168.1.53 port 59396 ssh2
+Sep  3 19:05:04 10 sshd[242]: Accepted password for root from 192.168.1.53 port 59406 ssh2
+Sep  3 19:05:04 10 sshd[242]: subsystem request for sftp
+Sep  3 19:05:07 10 sshd[240]: Disconnecting: socket: Address family not supported
+Sep  3 19:06:25 10 sshd[246]: Accepted password for root from 192.168.1.53 port 59560 ssh2
+Sep  3 19:06:25 10 sshd[248]: Accepted password for root from 192.168.1.53 port 59574 ssh2
+Sep  3 19:06:25 10 sshd[248]: subsystem request for sftp
+Sep  3 19:06:45 10 sshd[246]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 19:07:46 10 sshd[258]: Accepted password for root from 192.168.1.53 port 59722 ssh2
+Sep  3 19:07:46 10 sshd[260]: Accepted password for root from 192.168.1.53 port 59737 ssh2
+Sep  3 19:07:46 10 sshd[260]: subsystem request for sftp
+Sep  3 19:07:49 10 sshd[258]: Disconnecting: socket: Address family not supported
+Sep  3 19:10:03 10 sshd[264]: Accepted password for root from 192.168.1.53 port 60012 ssh2
+Sep  3 19:10:03 10 sshd[266]: Accepted password for root from 192.168.1.53 port 60025 ssh2
+Sep  3 19:10:03 10 sshd[266]: subsystem request for sftp
+Sep  3 19:10:06 10 sshd[264]: Disconnecting: socket: Address family not supported
+Sep  3 19:12:17 10 sshd[270]: Failed password for root from 192.168.1.53 port 60283 ssh2
+Sep  3 19:12:21 10 sshd[270]: Accepted password for root from 192.168.1.53 port 60283 ssh2
+Sep  3 19:12:21 10 sshd[273]: Accepted password for root from 192.168.1.53 port 60308 ssh2
+Sep  3 19:12:21 10 sshd[273]: subsystem request for sftp
+Sep  3 19:12:23 10 sshd[270]: Disconnecting: socket: Address family not supported
+Sep  3 19:18:48 10 sshd[277]: Accepted password for root from 192.168.1.53 port 61088 ssh2
+Sep  3 19:18:48 10 sshd[279]: Accepted password for root from 192.168.1.53 port 61096 ssh2
+Sep  3 19:18:48 10 sshd[279]: subsystem request for sftp
+Sep  3 19:18:51 10 sshd[277]: Disconnecting: socket: Address family not supported
+Sep  3 19:19:32 10 sshd[283]: Failed password for root from 192.168.1.53 port 61173 ssh2
+Sep  3 19:19:34 10 sshd[283]: Accepted password for root from 192.168.1.53 port 61173 ssh2
+Sep  3 19:19:49 10 sshd[283]: Disconnecting: socket: Address family not supported
+Sep  3 19:20:46 10 sshd[286]: Did not receive identification string from 192.168.1.53
+Sep  3 19:21:28 10 sshd[287]: Accepted password for root from 192.168.1.53 port 61422 ssh2
+Sep  3 19:21:29 10 sshd[289]: Accepted password for root from 192.168.1.53 port 61427 ssh2
+Sep  3 19:21:29 10 sshd[289]: subsystem request for sftp
+Sep  3 19:22:27 10 sshd[287]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 19:23:48 10 sshd[311]: Accepted password for root from 192.168.1.53 port 61712 ssh2
+Sep  3 19:23:49 10 sshd[313]: Accepted password for root from 192.168.1.53 port 61719 ssh2
+Sep  3 19:23:49 10 sshd[313]: subsystem request for sftp
+Sep  3 19:24:55 10 sshd[311]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 19:29:19 10 sshd[350]: Accepted password for root from 192.168.1.53 port 62396 ssh2
+Sep  3 19:29:19 10 sshd[352]: Accepted password for root from 192.168.1.53 port 62403 ssh2
+Sep  3 19:29:19 10 sshd[352]: subsystem request for sftp
+Sep  3 19:29:21 10 sshd[350]: Disconnecting: socket: Address family not supported
+Sep  3 19:31:40 10 sshd[356]: Failed password for root from 192.168.1.53 port 62711 ssh2
+Sep  3 19:31:42 10 sshd[356]: Accepted password for root from 192.168.1.53 port 62711 ssh2
+Sep  3 19:31:42 10 sshd[359]: Accepted password for root from 192.168.1.53 port 62731 ssh2
+Sep  3 19:31:42 10 sshd[359]: subsystem request for sftp
+Sep  3 19:31:44 10 sshd[356]: Disconnecting: socket: Address family not supported
+Sep  3 19:37:12 10 sshd[363]: Accepted password for root from 192.168.1.53 port 63449 ssh2
+Sep  3 19:37:13 10 sshd[365]: Accepted password for root from 192.168.1.53 port 63459 ssh2
+Sep  3 19:37:13 10 sshd[365]: subsystem request for sftp
+Sep  3 19:37:15 10 sshd[363]: Disconnecting: socket: Address family not supported
+Sep  3 19:40:14 10 sshd[369]: Accepted password for root from 192.168.1.53 port 63860 ssh2
+Sep  3 19:40:14 10 sshd[371]: Accepted password for root from 192.168.1.53 port 63867 ssh2
+Sep  3 19:40:14 10 sshd[371]: subsystem request for sftp
+Sep  3 19:40:17 10 sshd[369]: Disconnecting: socket: Address family not supported
+Sep  3 19:41:31 10 sshd[375]: Accepted password for root from 192.168.1.53 port 64028 ssh2
+Sep  3 19:41:31 10 sshd[377]: Accepted password for root from 192.168.1.53 port 64037 ssh2
+Sep  3 19:41:31 10 sshd[377]: subsystem request for sftp
+Sep  3 19:45:40 10 sshd[375]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 19:47:48 10 sshd[436]: Accepted password for root from 192.168.1.53 port 64864 ssh2
+Sep  3 19:47:48 10 sshd[438]: Accepted password for root from 192.168.1.53 port 64871 ssh2
+Sep  3 19:47:48 10 sshd[438]: subsystem request for sftp
+Sep  3 19:47:55 10 sshd[436]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 19:48:31 10 sshd[95]: Received signal 15; terminating.
+Sep  3 19:48:32 10 syslogd: exiting on signal 15
+Sep  3 22:22:36 10 syslogd: restart
+Sep  3 22:22:36 10 kernel: 
+Sep  3 22:22:36 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 22:22:36 10 kernel: Executing in 32-bit protected mode.
+Sep  3 22:22:36 10 kernel: 
+Sep  3 22:22:36 10 kernel:                                                                                                                                              
+Sep  3 22:22:36 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 22:22:36 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 22:22:36 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 22:22:36 10 kernel: Replacing root
+Sep  3 22:22:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 22:22:36 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 22:22:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 22:22:36 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 22:22:36 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 22:22:36 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 22:22:36 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 22:22:36 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 22:28:40 10 sshd[111]: Accepted password for root from 192.168.1.53 port 52353 ssh2
+Sep  3 22:28:41 10 sshd[113]: Accepted password for root from 192.168.1.53 port 52393 ssh2
+Sep  3 22:28:41 10 sshd[113]: subsystem request for sftp
+Sep  3 22:28:44 10 sshd[111]: Disconnecting: socket: Address family not supported
+Sep  3 22:29:30 10 sshd[119]: Accepted password for root from 192.168.1.53 port 52481 ssh2
+Sep  3 22:29:33 10 sshd[119]: Disconnecting: socket: Address family not supported
+Sep  3 22:29:36 10 sshd[121]: Did not receive identification string from 192.168.1.53
+Sep  3 22:32:09 10 sshd[122]: Accepted password for root from 192.168.1.53 port 52806 ssh2
+Sep  3 22:32:09 10 sshd[124]: Accepted password for root from 192.168.1.53 port 52825 ssh2
+Sep  3 22:32:09 10 sshd[124]: subsystem request for sftp
+Sep  3 22:32:12 10 sshd[122]: Disconnecting: socket: Address family not supported
+Sep  3 22:36:05 10 sshd[128]: Accepted password for root from 192.168.1.53 port 53293 ssh2
+Sep  3 22:36:08 10 sshd[128]: Disconnecting: socket: Address family not supported
+Sep  3 22:36:14 10 sshd[130]: Did not receive identification string from 192.168.1.53
+Sep  3 22:37:16 10 sshd[131]: Accepted password for root from 192.168.1.53 port 53445 ssh2
+Sep  3 22:37:16 10 sshd[133]: Accepted password for root from 192.168.1.53 port 53451 ssh2
+Sep  3 22:37:16 10 sshd[133]: subsystem request for sftp
+Sep  3 22:37:19 10 sshd[131]: Disconnecting: socket: Address family not supported
+Sep  3 22:39:48 10 sshd[137]: Accepted password for root from 192.168.1.53 port 53753 ssh2
+Sep  3 22:39:48 10 sshd[139]: Accepted password for root from 192.168.1.53 port 53759 ssh2
+Sep  3 22:39:48 10 sshd[139]: subsystem request for sftp
+Sep  3 22:39:50 10 sshd[137]: Disconnecting: socket: Address family not supported
+Sep  3 22:40:58 10 sshd[143]: Accepted password for root from 192.168.1.53 port 53893 ssh2
+Sep  3 22:40:59 10 sshd[145]: Accepted password for root from 192.168.1.53 port 53912 ssh2
+Sep  3 22:40:59 10 sshd[145]: subsystem request for sftp
+Sep  3 22:41:06 10 sshd[143]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 22:43:35 10 sshd[155]: Accepted password for root from 192.168.1.53 port 54220 ssh2
+Sep  3 22:43:36 10 sshd[157]: Accepted password for root from 192.168.1.53 port 54227 ssh2
+Sep  3 22:43:36 10 sshd[157]: subsystem request for sftp
+Sep  3 22:47:23 10 sshd[155]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 22:53:26 10 sshd[191]: Accepted password for root from 192.168.1.53 port 55407 ssh2
+Sep  3 22:53:27 10 sshd[193]: Accepted password for root from 192.168.1.53 port 55429 ssh2
+Sep  3 22:53:27 10 sshd[193]: subsystem request for sftp
+Sep  3 22:53:29 10 sshd[191]: Disconnecting: socket: Address family not supported
+Sep  3 22:53:48 10 sshd[197]: Accepted password for root from 192.168.1.53 port 55448 ssh2
+Sep  3 22:53:50 10 sshd[197]: Disconnecting: socket: Address family not supported
+Sep  3 22:54:07 10 sshd[199]: Did not receive identification string from 192.168.1.53
+Sep  3 22:55:11 10 sshd[200]: Accepted password for root from 192.168.1.53 port 55639 ssh2
+Sep  3 22:55:12 10 sshd[202]: Accepted password for root from 192.168.1.53 port 55645 ssh2
+Sep  3 22:55:12 10 sshd[202]: subsystem request for sftp
+Sep  3 22:55:54 10 sshd[200]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 22:56:02 10 sshd[219]: Accepted password for root from 192.168.1.53 port 55742 ssh2
+Sep  3 22:56:03 10 sshd[221]: Accepted password for root from 192.168.1.53 port 55748 ssh2
+Sep  3 22:56:03 10 sshd[221]: subsystem request for sftp
+Sep  3 22:56:07 10 sshd[219]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 22:56:50 10 sshd[231]: Accepted password for root from 192.168.1.53 port 55841 ssh2
+Sep  3 22:56:50 10 sshd[233]: Accepted password for root from 192.168.1.53 port 55847 ssh2
+Sep  3 22:56:50 10 sshd[233]: subsystem request for sftp
+Sep  3 22:56:56 10 sshd[231]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 22:57:47 10 sshd[243]: Accepted password for root from 192.168.1.53 port 55958 ssh2
+Sep  3 22:57:48 10 sshd[245]: Accepted password for root from 192.168.1.53 port 55963 ssh2
+Sep  3 22:57:48 10 sshd[245]: subsystem request for sftp
+Sep  3 22:58:01 10 sshd[243]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:01:11 10 sshd[255]: Accepted password for root from 192.168.1.53 port 56371 ssh2
+Sep  3 23:01:12 10 sshd[257]: Accepted password for root from 192.168.1.53 port 56377 ssh2
+Sep  3 23:01:12 10 sshd[257]: subsystem request for sftp
+Sep  3 23:01:14 10 sshd[255]: Disconnecting: socket: Address family not supported
+Sep  3 23:04:26 10 sshd[261]: Accepted password for root from 192.168.1.53 port 56768 ssh2
+Sep  3 23:04:26 10 sshd[263]: Accepted password for root from 192.168.1.53 port 56777 ssh2
+Sep  3 23:04:26 10 sshd[263]: subsystem request for sftp
+Sep  3 23:05:26 10 sshd[261]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:05:34 10 sshd[282]: Accepted password for root from 192.168.1.53 port 56913 ssh2
+Sep  3 23:05:35 10 sshd[284]: Accepted password for root from 192.168.1.53 port 56919 ssh2
+Sep  3 23:05:35 10 sshd[284]: subsystem request for sftp
+Sep  3 23:06:12 10 sshd[282]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:06:19 10 sshd[299]: Accepted password for root from 192.168.1.53 port 56994 ssh2
+Sep  3 23:06:20 10 sshd[301]: Accepted password for root from 192.168.1.53 port 57011 ssh2
+Sep  3 23:06:20 10 sshd[301]: subsystem request for sftp
+Sep  3 23:06:44 10 sshd[299]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:07:27 10 sshd[317]: Accepted password for root from 192.168.1.53 port 57134 ssh2
+Sep  3 23:07:28 10 sshd[319]: Accepted password for root from 192.168.1.53 port 57142 ssh2
+Sep  3 23:07:28 10 sshd[319]: subsystem request for sftp
+Sep  3 23:08:26 10 sshd[317]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:08:33 10 sshd[335]: Accepted password for root from 192.168.1.53 port 57268 ssh2
+Sep  3 23:08:34 10 sshd[337]: Accepted password for root from 192.168.1.53 port 57277 ssh2
+Sep  3 23:08:34 10 sshd[337]: subsystem request for sftp
+Sep  3 23:08:57 10 sshd[335]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:09:06 10 sshd[348]: Accepted password for root from 192.168.1.53 port 57328 ssh2
+Sep  3 23:09:06 10 sshd[350]: Accepted password for root from 192.168.1.53 port 57338 ssh2
+Sep  3 23:09:06 10 sshd[350]: subsystem request for sftp
+Sep  3 23:09:34 10 sshd[348]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:09:40 10 sshd[360]: Accepted password for root from 192.168.1.53 port 57408 ssh2
+Sep  3 23:09:41 10 sshd[362]: Accepted password for root from 192.168.1.53 port 57416 ssh2
+Sep  3 23:09:41 10 sshd[362]: subsystem request for sftp
+Sep  3 23:10:24 10 sshd[360]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:10:31 10 sshd[375]: Failed password for root from 192.168.1.53 port 57515 ssh2
+Sep  3 23:10:32 10 sshd[375]: Failed password for root from 192.168.1.53 port 57515 ssh2
+Sep  3 23:10:33 10 sshd[375]: Connection closed by 192.168.1.53
+Sep  3 23:10:43 10 sshd[376]: Accepted password for root from 192.168.1.53 port 57535 ssh2
+Sep  3 23:10:43 10 sshd[378]: Accepted password for root from 192.168.1.53 port 57540 ssh2
+Sep  3 23:10:43 10 sshd[378]: subsystem request for sftp
+Sep  3 23:19:07 10 sshd[376]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:19:13 10 sshd[417]: Accepted password for root from 192.168.1.53 port 58546 ssh2
+Sep  3 23:19:13 10 sshd[419]: Accepted password for root from 192.168.1.53 port 58559 ssh2
+Sep  3 23:19:13 10 sshd[419]: subsystem request for sftp
+Sep  3 23:25:22 10 sshd[417]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:25:31 10 sshd[442]: Accepted password for root from 192.168.1.53 port 59311 ssh2
+Sep  3 23:25:31 10 sshd[444]: Accepted password for root from 192.168.1.53 port 59317 ssh2
+Sep  3 23:25:31 10 sshd[444]: subsystem request for sftp
+Sep  3 23:33:08 10 sshd[442]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:33:18 10 sshd[478]: Accepted password for root from 192.168.1.53 port 60228 ssh2
+Sep  3 23:33:19 10 sshd[480]: Accepted password for root from 192.168.1.53 port 60247 ssh2
+Sep  3 23:33:19 10 sshd[480]: subsystem request for sftp
+Sep  3 23:35:10 10 sshd[478]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:35:33 10 sshd[501]: Accepted password for root from 192.168.1.53 port 60513 ssh2
+Sep  3 23:35:33 10 sshd[503]: Accepted password for root from 192.168.1.53 port 60519 ssh2
+Sep  3 23:35:33 10 sshd[503]: subsystem request for sftp
+Sep  3 23:39:36 10 sshd[501]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:39:42 10 sshd[529]: Failed password for root from 192.168.1.53 port 61007 ssh2
+Sep  3 23:39:45 10 sshd[529]: Accepted password for root from 192.168.1.53 port 61007 ssh2
+Sep  3 23:39:45 10 sshd[532]: Accepted password for root from 192.168.1.53 port 61017 ssh2
+Sep  3 23:39:45 10 sshd[532]: subsystem request for sftp
+Sep  3 23:40:03 10 sshd[529]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  3 23:47:15 10 sshd[89]: Received signal 15; terminating.
+Sep  3 23:47:15 10 syslogd: exiting on signal 15
+Sep  3 23:51:20 10 syslogd: restart
+Sep  3 23:51:20 10 kernel: 
+Sep  3 23:51:20 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 23:51:20 10 kernel: Executing in 32-bit protected mode.
+Sep  3 23:51:20 10 kernel: 
+Sep  3 23:51:20 10 kernel:                                                                                                                                              
+Sep  3 23:51:20 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 23:51:20 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 23:51:20 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 23:51:20 10 kernel: Replacing root
+Sep  3 23:51:20 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 23:51:20 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 23:51:20 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 23:51:20 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 23:51:20 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 23:51:20 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 23:51:20 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 23:51:20 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 23:52:22 10 sshd[107]: Accepted password for root from 192.168.1.53 port 62518 ssh2
+Sep  3 23:52:22 10 sshd[109]: Accepted password for root from 192.168.1.53 port 62528 ssh2
+Sep  3 23:52:22 10 sshd[109]: subsystem request for sftp
+Sep  4 00:02:59 10 sshd[107]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:03:10 10 sshd[130]: Accepted password for root from 192.168.1.53 port 64046 ssh2
+Sep  4 00:03:11 10 sshd[132]: Accepted password for root from 192.168.1.53 port 64052 ssh2
+Sep  4 00:03:11 10 sshd[132]: subsystem request for sftp
+Sep  4 00:06:06 10 sshd[130]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:06:15 10 sshd[148]: Failed password for root from 192.168.1.53 port 64416 ssh2
+Sep  4 00:06:16 10 sshd[148]: Accepted password for root from 192.168.1.53 port 64416 ssh2
+Sep  4 00:06:17 10 sshd[151]: Accepted password for root from 192.168.1.53 port 64428 ssh2
+Sep  4 00:06:17 10 sshd[151]: subsystem request for sftp
+Sep  4 00:06:55 10 sshd[148]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:07:08 10 sshd[163]: Accepted password for root from 192.168.1.53 port 64526 ssh2
+Sep  4 00:07:09 10 sshd[165]: Accepted password for root from 192.168.1.53 port 64533 ssh2
+Sep  4 00:07:09 10 sshd[165]: subsystem request for sftp
+Sep  4 00:09:13 10 sshd[163]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:09:22 10 sshd[176]: Accepted password for root from 192.168.1.53 port 64788 ssh2
+Sep  4 00:09:23 10 sshd[178]: Accepted password for root from 192.168.1.53 port 64796 ssh2
+Sep  4 00:09:23 10 sshd[178]: subsystem request for sftp
+Sep  4 00:09:56 10 sshd[176]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:10:03 10 sshd[190]: Accepted password for root from 192.168.1.53 port 64880 ssh2
+Sep  4 00:10:03 10 sshd[192]: Accepted password for root from 192.168.1.53 port 64886 ssh2
+Sep  4 00:10:04 10 sshd[192]: subsystem request for sftp
+Sep  4 00:12:59 10 sshd[190]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:13:05 10 sshd[203]: Accepted password for root from 192.168.1.53 port 65238 ssh2
+Sep  4 00:13:06 10 sshd[205]: Accepted password for root from 192.168.1.53 port 65247 ssh2
+Sep  4 00:13:06 10 sshd[205]: subsystem request for sftp
+Sep  4 00:13:27 10 sshd[203]: Received disconnect from 192.168.1.53: 11: disconnected by user
+Sep  4 00:19:00 10 sshd[240]: Accepted password for root from 10.0.2.2 port 49567 ssh2
+Sep  4 00:23:11 10 sshd[266]: Accepted password for root from 10.0.2.2 port 50172 ssh2
+Sep  4 00:23:11 10 sshd[268]: Accepted password for root from 10.0.2.2 port 50185 ssh2
+Sep  4 00:23:11 10 sshd[268]: subsystem request for sftp
+Sep  4 00:34:25 10 sshd[266]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep  4 00:38:01 10 sshd[89]: Received signal 15; terminating.
+Sep  4 00:38:01 10 syslogd: exiting on signal 15
+Sep  4 01:48:49 10 syslogd: restart
+Sep  4 01:48:49 10 kernel: 
+Sep  4 01:48:49 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 01:48:49 10 kernel: Executing in 32-bit protected mode.
+Sep  4 01:48:49 10 kernel: 
+Sep  4 01:48:49 10 kernel:                                                                                                                                              
+Sep  4 01:48:49 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 01:48:49 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  4 01:48:49 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 01:48:49 10 kernel: Replacing root
+Sep  4 01:48:49 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 01:48:49 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 01:48:49 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 01:48:49 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 01:48:49 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 01:48:49 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 01:48:49 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  4 01:48:49 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  4 01:51:32 10 sshd[112]: Failed password for root from 10.0.2.2 port 60501 ssh2
+Sep  4 01:51:33 10 sshd[112]: Connection closed by 10.0.2.2
+Sep  4 01:55:07 10 sshd[89]: Received signal 15; terminating.
+Sep  4 01:55:08 10 syslogd: exiting on signal 15
+Sep  4 02:12:59 10 syslogd: restart
+Sep  4 02:12:59 10 kernel: 
+Sep  4 02:12:59 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 02:12:59 10 kernel: Executing in 32-bit protected mode.
+Sep  4 02:12:59 10 kernel: 
+Sep  4 02:12:59 10 kernel:                                                                                                                                              
+Sep  4 02:12:59 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 02:12:59 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  4 02:12:59 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 02:12:59 10 kernel: Replacing root
+Sep  4 02:12:59 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:12:59 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:12:59 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:12:59 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:12:59 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:12:59 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:12:59 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  4 02:12:59 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  4 02:19:38 10 sshd[89]: Received signal 15; terminating.
+Sep  4 02:19:39 10 syslogd: exiting on signal 15
+Sep  4 02:21:01 10 syslogd: restart
+Sep  4 02:21:01 10 kernel: 
+Sep  4 02:21:01 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 02:21:01 10 kernel: Executing in 32-bit protected mode.
+Sep  4 02:21:01 10 kernel: 
+Sep  4 02:21:01 10 kernel:                                                                                                                                              
+Sep  4 02:21:01 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 02:21:01 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  4 02:21:01 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 02:21:01 10 kernel: Replacing root
+Sep  4 02:21:01 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:21:01 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:21:01 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:21:01 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:21:01 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:21:01 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:21:01 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  4 02:21:01 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  4 02:35:41 10 sshd[92]: Received signal 15; terminating.
+Sep  4 02:35:42 10 syslogd: exiting on signal 15
+Sep  4 02:50:52 10 syslogd: restart
+Sep  4 02:50:52 10 kernel: 
+Sep  4 02:50:52 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 02:50:52 10 kernel: Executing in 32-bit protected mode.
+Sep  4 02:50:52 10 kernel: 
+Sep  4 02:50:52 10 kernel:                                                                                                                                              
+Sep  4 02:50:52 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 02:50:52 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  4 02:50:52 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 02:50:52 10 kernel: Replacing root
+Sep  4 02:50:52 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:50:52 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:50:52 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:50:52 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:50:52 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 02:50:52 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 02:50:52 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  4 02:50:52 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  4 02:57:56 10 kernel: No space on root device 3/128
+Sep  4 03:39:38 10 syslogd: restart
+Sep  4 03:39:38 10 kernel: 
+Sep  4 03:39:38 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 03:39:38 10 kernel: Executing in 32-bit protected mode.
+Sep  4 03:39:38 10 kernel: 
+Sep  4 03:39:38 10 kernel:                                                                                                                                              
+Sep  4 03:39:38 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 03:39:38 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  4 03:39:38 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 03:39:38 10 kernel: Replacing root
+Sep  4 03:39:38 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 03:39:38 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 03:39:38 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 03:39:38 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 03:39:38 10 kernel: pci_slot_name: got name 0.3.0
+Sep  4 03:39:38 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 03:39:38 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  4 03:39:38 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  4 03:43:02 10 sshd[97]: Received signal 15; terminating.
+Sep  4 03:43:03 10 syslogd: exiting on signal 15
+Sep  8 22:59:15 10 syslogd: restart
+Sep  8 22:59:15 10 kernel: 
+Sep  8 22:59:15 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  8 22:59:15 10 kernel: Executing in 32-bit protected mode.
+Sep  8 22:59:15 10 kernel: 
+Sep  8 22:59:15 10 kernel:                                                                                                                                              
+Sep  8 22:59:15 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  8 22:59:15 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  8 22:59:15 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  8 22:59:15 10 kernel: Replacing root
+Sep  8 22:59:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  8 22:59:15 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  8 22:59:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  8 22:59:15 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  8 22:59:15 10 kernel: pci_slot_name: got name 0.3.0
+Sep  8 22:59:15 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  8 22:59:15 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  8 22:59:15 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  8 23:00:37 10 sshd[92]: Received signal 15; terminating.
+Sep  8 23:00:37 10 syslogd: exiting on signal 15
+Oct 24 00:37:29 10 syslogd: restart
+Oct 24 00:37:29 10 kernel: 
+Oct 24 00:37:29 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Oct 24 00:37:29 10 kernel: Executing in 32-bit protected mode.
+Oct 24 00:37:29 10 kernel: 
+Oct 24 00:37:29 10 kernel:                                                                                                                                              
+Oct 24 00:37:29 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Oct 24 00:37:29 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Oct 24 00:37:29 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Oct 24 00:37:29 10 kernel: Replacing root
+Oct 24 00:37:29 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:37:29 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:37:29 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:37:29 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:37:29 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:37:29 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:37:29 10 kernel: dp8390#0: NE2000 at C000:11
+Oct 24 00:37:29 10 kernel: dp8390: strange, got SYN_ALARM
+Oct 24 00:45:21 10 sshd[89]: Received signal 15; terminating.
+Oct 24 00:45:22 10 syslogd: exiting on signal 15
+Oct 24 00:45:35 10 syslogd: restart
+Oct 24 00:45:35 10 kernel: 
+Oct 24 00:45:35 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Oct 24 00:45:35 10 kernel: Executing in 32-bit protected mode.
+Oct 24 00:45:35 10 kernel: 
+Oct 24 00:45:35 10 kernel:                                                                                                                                              
+Oct 24 00:45:35 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Oct 24 00:45:35 10 kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Oct 24 00:45:35 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Oct 24 00:45:35 10 kernel: Replacing root
+Oct 24 00:45:35 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:45:35 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:45:35 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:45:35 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:45:35 10 kernel: pci_slot_name: got name 0.3.0
+Oct 24 00:45:35 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Oct 24 00:45:35 10 kernel: dp8390#0: NE2000 at C000:11
+Oct 24 00:47:14 10 sshd[88]: Received signal 15; terminating.
+Oct 24 00:47:14 10 syslogd: exiting on signal 15
+Nov  6 16:32:52 10 syslogd: restart
+Nov  6 16:32:52 10 sshd[87]: error: setsockopt SO_REUSEADDR: Function not implemented
+Nov  6 16:32:52 10 kernel: 
+Nov  6 16:32:52 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Nov  6 16:32:52 10 kernel: Executing in 32-bit protected mode.
+Nov  6 16:32:52 10 kernel: 
+Nov  6 16:32:52 10 kernel:                                                                                                                                              
+Nov  6 16:32:52 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Nov  6 16:32:52 10 kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Nov  6 16:32:52 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Nov  6 16:32:52 10 kernel: Replacing root
+Nov  6 16:32:52 10 kernel: pci_slot_name: got name 0.3.0
+Nov  6 16:32:52 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Nov  6 16:32:52 10 kernel: pci_slot_name: got name 0.3.0
+Nov  6 16:32:52 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Nov  6 16:32:52 10 kernel: pci_slot_name: got name 0.3.0
+Nov  6 16:32:52 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Nov  6 16:32:52 10 kernel: dp8390#0: NE2000 at C000:11
+Nov  6 16:32:52 10 kernel: dp8390: strange, got SYN_ALARM
+Nov  6 16:32:52 10 sshd[87]: Server listening on 0.0.0.0 port 22.
+Nov  6 16:35:21 10 sshd[87]: Received signal 15; terminating.
+Nov  6 16:35:22 10 syslogd: exiting on signal 15
+Sep  3 15:57:05 10 syslogd: restart
+Sep  3 15:57:05 10 kernel: 
+Sep  3 15:57:05 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 15:57:05 10 kernel: Executing in 32-bit protected mode.
+Sep  3 15:57:05 10 kernel: 
+Sep  3 15:57:05 10 kernel:                                                                                                                                              
+Sep  3 15:57:05 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 15:57:05 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 15:57:05 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 15:57:05 10 kernel: Replacing root
+Sep  3 15:57:05 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:57:05 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:57:05 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:57:05 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:57:05 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:57:05 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:57:05 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 15:57:05 10 kernel: dp8390: strange, got SYN_ALARM
+Sep  3 15:57:10 10 sshd[89]: error: setsockopt SO_REUSEADDR: Function not implemented
+Sep  3 15:57:10 10 sshd[89]: Server listening on 0.0.0.0 port 22.
+Sep  3 15:57:51 10 sshd[89]: Received signal 15; terminating.
+Sep  3 15:57:52 10 syslogd: exiting on signal 15
+Sep  3 15:59:56 10 syslogd: restart
+Sep  3 15:59:56 10 kernel: 
+Sep  3 15:59:56 10 kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 15:59:56 10 kernel: Executing in 32-bit protected mode.
+Sep  3 15:59:56 10 kernel: 
+Sep  3 15:59:56 10 kernel:                                                                                                                                              
+Sep  3 15:59:56 10 kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 15:59:56 10 kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 15:59:56 10 kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 15:59:56 10 kernel: Replacing root
+Sep  3 15:59:56 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:59:56 10 kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:59:56 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:59:56 10 kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:59:56 10 kernel: pci_slot_name: got name 0.3.0
+Sep  3 15:59:56 10 kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 15:59:56 10 kernel: dp8390#0: NE2000 at C000:11
+Sep  3 15:59:57 10 sshd[87]: error: setsockopt SO_REUSEADDR: Function not implemented
+Sep  3 15:59:57 10 sshd[87]: Server listening on 0.0.0.0 port 22.
+Sep  3 16:04:06 10 sshd[87]: Received signal 15; terminating.
+Sep  3 16:04:07 10 syslogd: exiting on signal 15
+Sep  3 16:04:21 minix syslogd: restart
+Sep  3 16:04:21 minix kernel: 
+Sep  3 16:04:21 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 16:04:21 minix kernel: Executing in 32-bit protected mode.
+Sep  3 16:04:21 minix kernel: 
+Sep  3 16:04:21 minix kernel:                                                                                                                                              
+Sep  3 16:04:21 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 16:04:21 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep  3 16:04:21 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 16:04:21 minix kernel: Replacing root
+Sep  3 16:04:21 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:04:21 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:04:21 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:04:21 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:04:21 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:04:21 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:04:21 minix kernel: dp8390#0: NE2000 at C000:11
+Sep  3 16:04:21 minix kernel: dp8390: strange, got SYN_ALARM
+Sep  3 16:05:03 minix sshd[87]: Received signal 15; terminating.
+Sep  3 16:05:06 minix syslogd: exiting on signal 15
+Sep  3 16:09:47 minix syslogd: restart
+Sep  3 16:09:47 minix kernel: 
+Sep  3 16:09:47 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  3 16:09:47 minix kernel: Executing in 32-bit protected mode.
+Sep  3 16:09:47 minix kernel: 
+Sep  3 16:09:47 minix kernel:                                                                                                                                              
+Sep  3 16:09:47 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  3 16:09:47 minix kernel: Physical memory: total 523200 KB, system 5700 KB, free 517500 KB.
+Sep  3 16:09:47 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  3 16:09:47 minix kernel: Replacing root
+Sep  3 16:09:47 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:09:47 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:09:47 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:09:47 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:09:47 minix kernel: pci_slot_name: got name 0.3.0
+Sep  3 16:09:47 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  3 16:09:47 minix kernel: dp8390#0: NE2000 at C000:11
+Sep  3 16:10:26 minix sshd[89]: Received signal 15; terminating.
+Sep  3 16:10:26 minix syslogd: exiting on signal 15
+Sep  4 06:39:17 minix syslogd: restart
+Sep  4 06:39:17 minix kernel: 
+Sep  4 06:39:17 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 06:39:17 minix kernel: Executing in 32-bit protected mode.
+Sep  4 06:39:17 minix kernel: 
+Sep  4 06:39:17 minix kernel:                                                                                                                                              
+Sep  4 06:39:17 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 06:39:17 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep  4 06:39:17 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 06:39:17 minix kernel: Replacing root
+Sep  4 06:39:17 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 06:39:17 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 06:39:17 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 06:39:17 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 06:39:17 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 06:39:17 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 06:39:17 minix kernel: dp8390#0: NE2000 at C000:11
+Sep  4 06:39:17 minix kernel: dp8390: strange, got SYN_ALARM
+Sep  4 06:39:35 minix sshd[87]: Received signal 15; terminating.
+Sep  4 06:39:35 minix syslogd: exiting on signal 15
+Sep  4 11:43:40 minix syslogd: restart
+Sep  4 11:43:40 minix kernel: 
+Sep  4 11:43:40 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep  4 11:43:40 minix kernel: Executing in 32-bit protected mode.
+Sep  4 11:43:40 minix kernel: 
+Sep  4 11:43:40 minix kernel:                                                                                                                                              
+Sep  4 11:43:40 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep  4 11:43:40 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep  4 11:43:40 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep  4 11:43:40 minix kernel: Replacing root
+Sep  4 11:43:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 11:43:40 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 11:43:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 11:43:40 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 11:43:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep  4 11:43:40 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep  4 11:43:40 minix kernel: dp8390#0: NE2000 at C000:11
+Sep  4 11:43:40 minix kernel: dp8390: strange, got SYN_ALARM
+Sep  4 11:45:29 minix sshd[91]: Received signal 15; terminating.
+Sep  4 11:45:29 minix syslogd: exiting on signal 15
+Sep 14 19:09:40 minix syslogd: restart
+Sep 14 19:09:40 minix kernel: 
+Sep 14 19:09:40 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 19:09:40 minix kernel: Executing in 32-bit protected mode.
+Sep 14 19:09:40 minix kernel: 
+Sep 14 19:09:40 minix kernel:                                                                                                                                              
+Sep 14 19:09:40 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 19:09:40 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 19:09:40 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 19:09:40 minix kernel: Replacing root
+Sep 14 19:09:40 minix kernel: osdep_eth_init: no ethernet device at task=35587,port=0
+Sep 14 19:09:40 minix kernel: eth_set_rec_conf: waiting for device to appear
+Sep 14 19:09:40 minix kernel: eth_ioctl: suspending NWIOGETHSTAT ioctl
+Sep 14 19:09:40 minix kernel: eth_ioctl: suspending NWIOGETHSTAT ioctl
+Sep 14 19:09:40 minix kernel: eth_set_rec_conf: waiting for device to appear
+Sep 14 19:09:40 minix kernel: eth_set_rec_conf: waiting for device to appear
+Sep 14 19:13:15 minix sshd[89]: Received signal 15; terminating.
+Sep 14 19:13:16 minix syslogd: exiting on signal 15
+Sep 14 21:21:51 minix syslogd: restart
+Sep 14 21:21:51 minix kernel: 
+Sep 14 21:21:51 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 21:21:51 minix kernel: Executing in 32-bit protected mode.
+Sep 14 21:21:51 minix kernel: 
+Sep 14 21:21:51 minix kernel:                                                                                                                                              
+Sep 14 21:21:51 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 21:21:51 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 21:21:51 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 21:21:51 minix kernel: Replacing root
+Sep 14 21:21:51 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:21:51 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:21:51 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:21:51 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:21:51 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:21:51 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:21:51 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 21:22:18 minix sshd[107]: fatal: no hostkey alg
+Sep 14 21:23:42 minix sshd[108]: fatal: no hostkey alg
+Sep 14 21:24:50 minix sshd[88]: Received signal 15; terminating.
+Sep 14 21:24:51 minix syslogd: exiting on signal 15
+Sep 14 21:25:08 minix syslogd: restart
+Sep 14 21:25:08 minix kernel: 
+Sep 14 21:25:08 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 21:25:08 minix kernel: Executing in 32-bit protected mode.
+Sep 14 21:25:08 minix kernel: 
+Sep 14 21:25:08 minix kernel:                                                                                                                                              
+Sep 14 21:25:08 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 21:25:08 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 21:25:08 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 21:25:08 minix kernel: Replacing root
+Sep 14 21:25:08 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:25:08 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:25:08 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:25:08 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:25:08 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 21:25:08 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 21:25:08 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 21:25:08 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 21:25:14 minix sshd[103]: fatal: no hostkey alg
+Sep 14 21:25:41 minix sshd[104]: Accepted password for usuario from 10.0.2.2 port 50968 ssh2
+Sep 14 21:45:08 minix -- MARK --
+Sep 14 22:05:08 minix -- MARK --
+Sep 14 22:19:39 minix syslogd: exiting on signal 15
+Sep 14 22:20:15 minix syslogd: restart
+Sep 14 22:20:15 minix kernel: 
+Sep 14 22:20:15 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 22:20:15 minix kernel: Executing in 32-bit protected mode.
+Sep 14 22:20:15 minix kernel: 
+Sep 14 22:20:15 minix kernel:                                                                                                                                              
+Sep 14 22:20:15 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 22:20:15 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 22:20:15 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 22:20:15 minix kernel: Replacing root
+Sep 14 22:20:15 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:20:15 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:20:15 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:20:15 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:20:15 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:20:15 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:20:15 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 22:20:15 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 22:20:35 minix sshd[107]: Accepted password for usuario from 10.0.2.2 port 52007 ssh2
+Sep 14 22:22:23 minix sshd[88]: Received signal 15; terminating.
+Sep 14 22:22:23 minix syslogd: exiting on signal 15
+Sep 14 22:22:54 minix syslogd: restart
+Sep 14 22:22:54 minix kernel: 
+Sep 14 22:22:54 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 22:22:54 minix kernel: Executing in 32-bit protected mode.
+Sep 14 22:22:54 minix kernel: 
+Sep 14 22:22:54 minix kernel:                                                                                                                                              
+Sep 14 22:22:54 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 22:22:54 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 22:22:54 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 22:22:54 minix kernel: Replacing root
+Sep 14 22:22:54 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:22:54 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:22:54 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:22:54 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:22:54 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:22:54 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:22:54 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 22:22:54 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 22:22:54 minix sshd[88]: error: setsockopt SO_REUSEADDR: Function not implemented
+Sep 14 22:22:54 minix sshd[88]: Server listening on 0.0.0.0 port 22.
+Sep 14 22:23:14 minix sshd[103]: Accepted password for usuario from 10.0.2.2 port 52059 ssh2
+Sep 14 22:42:54 minix -- MARK --
+Sep 14 22:47:30 minix sshd[88]: Received signal 15; terminating.
+Sep 14 22:47:30 minix syslogd: exiting on signal 15
+Sep 14 22:47:58 minix syslogd: restart
+Sep 14 22:47:58 minix kernel: 
+Sep 14 22:47:58 minix kernel: MINIX 3.1.2a. Copyright 2006, Vrije Universiteit, Amsterdam, The Netherlands
+Sep 14 22:47:58 minix kernel: Executing in 32-bit protected mode.
+Sep 14 22:47:58 minix kernel: 
+Sep 14 22:47:58 minix kernel:                                                                                                                                              
+Sep 14 22:47:58 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 22:47:58 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 22:47:58 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 22:47:58 minix kernel: Replacing root
+Sep 14 22:47:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:47:58 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:47:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:47:58 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:47:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 22:47:58 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 22:47:58 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 22:47:58 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 22:48:13 minix sshd[107]: Accepted password for usuario from 10.0.2.2 port 52490 ssh2
+Sep 14 23:02:53 minix sshd[134]: Accepted password for usuario from 10.0.2.2 port 52728 ssh2
+Sep 14 23:03:33 minix sshd[134]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep 14 23:04:33 minix sshd[107]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep 14 23:04:42 minix sshd[158]: Accepted password for usuario from 10.0.2.2 port 52768 ssh2
+Sep 14 23:05:02 minix sshd[158]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep 14 23:05:13 minix sshd[174]: Accepted password for usuario from 10.0.2.2 port 52778 ssh2
+Sep 14 23:20:57 minix sshd[174]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep 14 23:21:07 minix sshd[345]: Accepted password for usuario from 10.0.2.2 port 53102 ssh2
+Sep 14 23:22:43 minix sshd[88]: Received signal 15; terminating.
+Sep 14 23:22:44 minix syslogd: exiting on signal 15
+Sep 14 23:23:13 minix syslogd: restart
+Sep 14 23:23:13 minix kernel: 
+Sep 14 23:23:13 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024Executing in 32-bit protected mode.
+Sep 14 23:23:13 minix kernel: 
+Sep 14 23:23:13 minix kernel:                                                                                                                                                                               
+Sep 14 23:23:13 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:23:13 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:23:13 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:23:13 minix kernel: Replacing root
+Sep 14 23:23:13 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:23:13 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:23:13 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:23:13 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:23:13 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:23:13 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:23:13 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:23:13 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:29:37 minix syslogd: restart
+Sep 14 23:29:37 minix kernel: 
+Sep 14 23:29:37 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024Executing in 32-bit protected mode.
+Sep 14 23:29:37 minix kernel: 
+Sep 14 23:29:37 minix kernel:                                                                                                                                                                               
+Sep 14 23:29:37 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:29:37 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:29:37 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:29:37 minix kernel: Replacing root
+Sep 14 23:29:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:29:37 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:29:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:29:37 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:29:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:29:37 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:29:37 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:29:37 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:29:57 minix sshd[108]: Failed password for usuario from 10.0.2.2 port 53238 ssh2
+Sep 14 23:29:59 minix sshd[108]: Accepted password for usuario from 10.0.2.2 port 53238 ssh2
+Sep 14 23:30:02 minix sshd[108]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Sep 14 23:30:10 minix sshd[122]: Accepted password for usuario from 10.0.2.2 port 53259 ssh2
+Sep 14 23:31:23 minix sshd[93]: Received signal 15; terminating.
+Sep 14 23:31:24 minix syslogd: exiting on signal 15
+Sep 14 23:32:39 minix syslogd: restart
+Sep 14 23:32:39 minix kernel: 
+Sep 14 23:32:39 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024Executing in 32-bit protected mode.
+Sep 14 23:32:39 minix kernel: 
+Sep 14 23:32:39 minix kernel:                                                                                                                                                                               
+Sep 14 23:32:39 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:32:39 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:32:39 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:32:39 minix kernel: Replacing root
+Sep 14 23:32:39 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:32:39 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:32:39 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:32:39 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:32:39 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:32:39 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:32:39 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:32:39 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:35:39 minix sshd[88]: Received signal 15; terminating.
+Sep 14 23:35:39 minix syslogd: exiting on signal 15
+Sep 14 23:35:58 minix syslogd: restart
+Sep 14 23:35:58 minix kernel: 
+Sep 14 23:35:58 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024
+Sep 14 23:35:58 minix kernel: Executing in 32-bit protected mode.
+Sep 14 23:35:58 minix kernel: 
+Sep 14 23:35:58 minix kernel:                                                                                                                                                                              
+Sep 14 23:35:58 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:35:58 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:35:58 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:35:58 minix kernel: Replacing root
+Sep 14 23:35:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:35:58 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:35:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:35:58 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:35:58 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:35:58 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:35:58 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:35:58 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:40:37 minix syslogd: restart
+Sep 14 23:40:37 minix kernel: 
+Sep 14 23:40:37 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024
+Sep 14 23:40:37 minix kernel: Executing in 32-bit protected mode.
+Sep 14 23:40:37 minix kernel: 
+Sep 14 23:40:37 minix kernel:                                                                                                                                                                              
+Sep 14 23:40:37 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:40:37 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:40:37 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:40:37 minix kernel: Replacing root
+Sep 14 23:40:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:40:37 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:40:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:40:37 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:40:37 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:40:37 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:40:37 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:40:37 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:49:30 minix sshd[112]: Accepted password for usuario from 10.0.2.2 port 53590 ssh2
+Sep 14 23:51:40 minix syslogd: restart
+Sep 14 23:51:40 minix kernel: 
+Sep 14 23:51:40 minix kernel: MINIX 3.1.2a. Ian Selley Martin-Lorente 2024
+Sep 14 23:51:40 minix kernel: Executing in 32-bit protected mode.
+Sep 14 23:51:40 minix kernel: 
+Sep 14 23:51:40 minix kernel:                                                                                                                                                                              
+Sep 14 23:51:40 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 14 23:51:40 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 14 23:51:40 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 14 23:51:40 minix kernel: Replacing root
+Sep 14 23:51:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:51:40 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:51:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:51:40 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:51:40 minix kernel: pci_slot_name: got name 0.3.0
+Sep 14 23:51:40 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 14 23:51:40 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 14 23:51:40 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 14 23:52:19 minix sshd[113]: Accepted password for usuario from 10.0.2.2 port 53640 ssh2
+Sep 14 23:57:27 minix sshd[129]: Accepted password for usuario from 10.0.2.2 port 53720 ssh2
+Sep 15 00:06:05 minix sshd[93]: Received signal 15; terminating.
+Sep 15 00:06:06 minix syslogd: exiting on signal 15
+Sep 15 00:06:31 minix syslogd: restart
+Sep 15 00:06:31 minix sshd[95]: Server listening on 0.0.0.0 port 22.
+Sep 15 00:06:31 minix kernel: 
+Sep 15 00:06:31 minix kernel: MINIX 3.1.2a. Kernel compilado por Ian Selley Martin-Lorente 2024
+Sep 15 00:06:31 minix kernel: Executing in 32-bit protected mode.
+Sep 15 00:06:31 minix kernel: 
+Sep 15 00:06:31 minix kernel:                                                                                                                                                         
+Sep 15 00:06:31 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 15 00:06:31 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 15 00:06:31 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 15 00:06:31 minix kernel: Replacing root
+Sep 15 00:06:31 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:06:31 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:06:31 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:06:31 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:06:31 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:06:31 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:06:31 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 15 00:06:31 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 15 00:14:05 minix sshd[110]: Accepted password for usuario from 10.0.2.2 port 53986 ssh2
+Sep 15 00:22:29 minix sshd[95]: Received signal 15; terminating.
+Sep 15 00:22:30 minix syslogd: exiting on signal 15
+Sep 15 00:23:02 minix syslogd: restart
+Sep 15 00:23:02 minix kernel: 
+Sep 15 00:23:02 minix kernel: MINIX 3.1.2a. Kernel compilado por Ian Selley Martin-Lorente 2024
+Sep 15 00:23:02 minix kernel: Executing in 32-bit protected mode.
+Sep 15 00:23:02 minix kernel: 
+Sep 15 00:23:02 minix kernel:                                                                                                                                                         
+Sep 15 00:23:02 minix kernel: Building process table: pm fs rs ds tty mem log init.
+Sep 15 00:23:02 minix kernel: Physical memory: total 523200 KB, system 5708 KB, free 517492 KB.
+Sep 15 00:23:02 minix kernel: PCI: video memory for device at 0.2.0: 16777216 bytes
+Sep 15 00:23:02 minix kernel: Replacing root
+Sep 15 00:23:02 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:23:02 minix kernel: dp8390#0: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:23:02 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:23:02 minix kernel: dp8390#1: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:23:02 minix kernel: pci_slot_name: got name 0.3.0
+Sep 15 00:23:02 minix kernel: dp8390#2: Realtek RTL8029 (10EC/8029) at 0.3.0
+Sep 15 00:23:02 minix kernel: dp8390#0: NE2000 at C000:11
+Sep 15 00:23:02 minix kernel: dp8390: strange, got SYN_ALARM
+Sep 15 00:33:18 minix sshd[103]: Accepted password for usuario from 10.0.2.2 port 54302 ssh2
