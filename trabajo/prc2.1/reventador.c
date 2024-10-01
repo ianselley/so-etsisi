@@ -79,6 +79,23 @@ static void escribir_en_buffer_sin_intervalo(char *bfr, int pid)
              "Trabajador hijo con pid %d: No tiene intervalo\n", pid);
 }
 
+static int escribir_palabras_intervalo(int inicio, int fin)
+{
+    int i;
+    char *const palabra = calloc(longitud() + 2, sizeof(char));
+
+    for (i = inicio; i <= fin; i++)
+    {
+        if (genera_palabra(i, palabra) != OK)
+        {
+            return !OK;
+        }
+        fprintf(stdout, "%s\n", palabra);
+    }
+    free(palabra);
+    return OK;
+}
+
 static int crear_trabajadores(const int trabajadores)
 {
     int i;
@@ -120,30 +137,13 @@ static int crear_trabajadores(const int trabajadores)
             write(STDOUT_FILENO, buffer, strlen(buffer));
             return 0;
         }
-        else
-        {
-            wait(status_hijo);
-        }
         fin_int_prev = fin_int;
     }
-    return 0;
-}
-
-static int escribir_palabras_intervalo(int inicio, int fin)
-{
-    int i;
-    char *const palabra = calloc(longitud() + 2, sizeof(char));
-
-    for (i = inicio; i <= fin; i++)
+    for (i = 0; i < trabajadores; i++)
     {
-        if (genera_palabra(i, palabra) != OK)
-        {
-            return !OK;
-        }
-        fprintf(stdout, "%s\n", palabra);
+        wait(status_hijo);
     }
-    free(palabra);
-    return OK;
+    return 0;
 }
 
 /* Realiza el trabajo del reventador una vez que se ha obtenido la
