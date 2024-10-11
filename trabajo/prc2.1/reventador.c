@@ -79,7 +79,7 @@ static void escribir_en_buffer_sin_intervalo(char *bfr, int pid)
              "Trabajador hijo con pid %d: No tiene intervalo\n", pid);
 }
 
-static int escribir_palabras_intervalo(int inicio, int fin)
+static int probar_claves_intervalo(int inicio, int fin)
 {
     int i;
     char *const palabra = calloc(longitud() + 2, sizeof(char));
@@ -132,7 +132,7 @@ static int crear_trabajadores(const int trabajadores)
             pid_hijo = getpid();
             if (!trabajador_vacio)
             {
-                escribir_palabras_intervalo(fin_int_prev, fin_int);
+                probar_claves_intervalo(fin_int_prev, fin_int);
             }
             write(STDOUT_FILENO, buffer, strlen(buffer));
             return 0;
