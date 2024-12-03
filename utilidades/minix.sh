@@ -39,6 +39,7 @@ echo "Herramientas verificadas: QEMU y la imagen de Minix existen."
 # Configurar directorio de trabajo
 WORK_DIR="$(pwd)/trabajo"
 OUT_DIR="$(pwd)/out"
+LOG_FILE="$(pwd)/log_e9.bin"
 
 # Crear el directorio de salida si no existe
 if [[ ! -d "$OUT_DIR" ]]; then
@@ -67,7 +68,7 @@ if [[ $? -ne 0 ]]; then
         -drive file=fat:rw:$OUT_DIR,format=raw,media=disk,cache=none \
         -netdev user,id=n1,ipv6=off,restrict=off,hostfwd=tcp:127.0.0.1:5522-:22 \
         -device ne2k_pci,netdev=n1,mac=52:54:98:76:54:32 \
-        -debugcon file:../log_e9.bin &
+        -debugcon file:${LOG_FILE} &
 
     QEMU_PID=$!
     echo "QEMU iniciado con PID: $QEMU_PID"
